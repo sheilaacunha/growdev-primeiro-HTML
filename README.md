@@ -1,1 +1,1 @@
-## Trabalho proposto pela Growdev, usando somente o HTML semantico.
+## Trabalho proposto pela Growdev, usando somente o HTML puro.
